@@ -1,0 +1,33 @@
+﻿  TinyRendering.cpp
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(115,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(115,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(139,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(139,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(146,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++Repos\TinyRendering\TinyRendering\TinyRendering.cpp(146,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  TinyRendering.vcxproj -> D:\C++Repos\TinyRendering\Debug\TinyRendering.exe

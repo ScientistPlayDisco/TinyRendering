@@ -1,0 +1,40 @@
+﻿  main.cpp
+D:\C++Repos\TinyRendering\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++Repos\TinyRendering\main.cpp(91,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++Repos\TinyRendering\geometry.h(15,74): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\C++Repos\TinyRendering\geometry.h(15): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\C++Repos\TinyRendering\main.cpp(83): message : 查看对正在编译的函数 模板 实例化“Vec2<int> Vec2<int>::operator *(float) const”的引用
+D:\C++Repos\TinyRendering\main.cpp(64): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\C++Repos\TinyRendering\geometry.h(15,67): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  model.cpp
+D:\C++Repos\TinyRendering\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++Repos\TinyRendering\model.cpp(84,64): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\C++Repos\TinyRendering\model.cpp(84,28): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+  tgaimage.cpp
+D:\C++Repos\TinyRendering\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  TinyRenderer.vcxproj -> D:\C++Repos\TinyRendering\Debug\TinyRenderer.exe
